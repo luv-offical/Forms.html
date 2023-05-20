@@ -1,0 +1,94 @@
+.heading {
+  text-align: center;
+  font-size: 40px;
+  text-decoration: underline;
+}
+.second-heading {
+  padding-left: 30px;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 30px;
+}
+.main-name {
+  display: flex;
+  gap: 30%;
+}
+
+.fname {
+  display: grid;
+  font-size: 10px;
+}
+
+.lname {
+  font-size: 10px;
+  display: grid;
+}
+.main-Address {
+  font-size: 22px;
+  font-weight: bold;
+  font-style: oblique;
+
+}
+
+.second-address {
+  font-size: 22px;
+  font-style: oblique;
+  font-weight: bold;
+}
+.third-address {
+  font-size: 18px;
+  font-style: oblique;
+  font-weight: bold;
+}
+.main-city{
+  display: flex;
+gap: 50%;
+
+}
+.city-name{
+  font-weight: bold;
+  font-style: oblique;
+  display: grid;
+}
+.main-contact{
+  display: flex;
+  gap: 50%;
+}
+.second-contact{
+  display: grid;
+}
+.label-name{
+  display: flex;
+
+ 
+}
+.final-name{
+  padding-left: 150px;
+}.rating-name{
+  padding-left: 150px;
+}
+.rating-name2{
+  padding-left: 150px;
+}
+.country {
+  padding-left: 15%;
+  text-shadow: 2px 2px red;
+}
+.Details {
+  padding-left: 10px;
+  font-size: 18px;
+  font-style: oblique;
+  font-weight: bold;
+}
+label {
+  font-weight: bold;
+
+}
+.under {
+  text-decoration: underline;
+  text-shadow: 2px 2px lightcyan;
+}
+.final {
+  text-align: center;
+  cursor: pointer;
+}
